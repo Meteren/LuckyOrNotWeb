@@ -35234,7 +35234,7 @@ A.lE.prototype={
 a4(){return new A.IK(B.i)}}
 A.IK.prototype={
 H(a){var s=null
-return A.cJ(A.cO(!0,B.l,s,s,B.Ls),A.bN(A.hm(s,B.Lh,B.p,s,s,s,s,s,s,B.A4,s,s,250),s,410),s)}}
+return A.cJ(A.cO(!0,B.l,s,s,B.Lr),A.bN(A.hm(s,B.Lo,B.p,s,s,s,s,s,s,B.A4,s,s,250),s,410),s)}}
 A.Dq.prototype={
 H(a){return new A.tF(B.F8,"Lucky Or Not",A.akp(null,B.ed,null),!1,null)}}
 A.tV.prototype={
@@ -35274,7 +35274,7 @@ if(f.w===9)c.push(A.cU("Phase 10 earned point(s): "+A.h(f.cx),e))
 b=A.W(e,e,B.l,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
 s=f.f
 s===$&&A.b()
-c.push(A.U(B.LF,B.f.cd(s,11)===10?new A.a6J(f,a):e,b))
+c.push(A.U(B.LO,B.f.cd(s,11)===10?new A.a6J(f,a):e,b))
 b=A.aX([null,0],t.st,t.S)
 s=c.length
 r=!0
@@ -35283,26 +35283,26 @@ q=A.W(e,e,B.l,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
 p=f.cy
 p===$&&A.b()
 q=A.N(e,A.U(B.LS,p===0?new A.a6K(f):e,q),e,e,75,75,175,e)
-o=A.N(330,A.U(B.Lj,B.f.cd(f.f,11)===0&&p===1?new A.a6L(f,a):e,e),e,e,35,e,e,e)
+o=A.N(330,A.U(B.Lq,B.f.cd(f.f,11)===0&&p===1?new A.a6L(f,a):e,e),e,e,35,e,e,e)
 n=A.W(e,e,B.bV,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
-p=A.N(330,A.U(B.LG,B.f.cd(f.f,11)===1?new A.a6Q(f,a):e,n),e,e,e,35,e,e)
+p=A.N(330,A.U(B.LP,B.f.cd(f.f,11)===1?new A.a6Q(f,a):e,n),e,e,e,35,e,e)
 n=A.W(e,e,B.bB,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
-n=A.N(280,A.U(B.LD,B.f.cd(f.f,11)===2?new A.a6R(f,a):e,n),e,e,35,e,e,e)
+n=A.N(280,A.U(B.LK,B.f.cd(f.f,11)===2?new A.a6R(f,a):e,n),e,e,35,e,e,e)
 m=A.W(e,e,B.bm,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
-m=A.N(280,A.U(B.LH,B.f.cd(f.f,11)===3?new A.a6S(f,a):e,m),e,e,e,35,e,e)
+m=A.N(280,A.U(B.LQ,B.f.cd(f.f,11)===3?new A.a6S(f,a):e,m),e,e,e,35,e,e)
 l=A.W(e,e,B.V,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
 l=A.N(230,A.U(B.L2,B.f.cd(f.f,11)===4?new A.a6T(f,a):e,l),e,e,35,e,e,e)
 k=A.W(e,e,B.aP,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
-k=A.N(230,A.U(B.LE,B.f.cd(f.f,11)===5?new A.a6U(f,a):e,k),e,e,e,35,e,e)
+k=A.N(230,A.U(B.LM,B.f.cd(f.f,11)===5?new A.a6U(f,a):e,k),e,e,e,35,e,e)
 j=A.W(e,e,B.aH,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
-j=A.N(180,A.U(B.Lu,B.f.cd(f.f,11)===6?new A.a6V(f,a):e,j),e,e,35,e,e,e)
+j=A.N(180,A.U(B.Lt,B.f.cd(f.f,11)===6?new A.a6V(f,a):e,j),e,e,35,e,e,e)
 i=A.W(e,e,B.av,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
 i=A.N(180,A.U(B.LR,B.f.cd(f.f,11)===7?new A.a6W(f,a):e,i),e,e,e,35,e,e)
 h=A.W(e,e,B.ak,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
-h=A.N(130,A.U(B.Li,B.f.cd(f.f,11)===8?new A.a6X(f,a):e,h),e,e,35,e,e,e)
+h=A.N(130,A.U(B.Lp,B.f.cd(f.f,11)===8?new A.a6X(f,a):e,h),e,e,35,e,e,e)
 g=A.W(e,e,B.ae,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)
-q=A.bv(A.cr(A.a([A.bN(A.c1(B.G,A.a([B.FC,q,o,p,n,m,l,k,j,i,h,A.N(130,A.U(B.Lx,B.f.cd(f.f,11)===9?new A.a6M(f,a):e,g),e,e,e,30,e,e),A.N(70,A.U(B.LA,new A.a6N(a),A.W(e,e,B.l,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)),e,e,e,90,e,e)],d),B.L),603.4,255)],d),B.J,B.hj,B.K),e,e)
-p=A.N(0,A.Fc(!0,A.hm(e,A.YL(A.a([new A.fA(new A.a6O(),e),B.AD,A.b9(B.Ly,new A.a6P(a),A.akn(e,e,e,e,e,e,e,e,e,B.k,e,e,e,e,e,e,e,e,e))],d),B.J,B.hj,B.K),B.p,B.l,e,e,e,e,e,e,e,e,e),!0),e,e,0,0,e,e)
+q=A.bv(A.cr(A.a([A.bN(A.c1(B.G,A.a([B.FC,q,o,p,n,m,l,k,j,i,h,A.N(130,A.U(B.Lv,B.f.cd(f.f,11)===9?new A.a6M(f,a):e,g),e,e,e,30,e,e),A.N(70,A.U(B.Ly,new A.a6N(a),A.W(e,e,B.l,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e)),e,e,e,90,e,e)],d),B.L),603.4,255)],d),B.J,B.hj,B.K),e,e)
+p=A.N(0,A.Fc(!0,A.hm(e,A.YL(A.a([new A.fA(new A.a6O(),e),B.AD,A.b9(B.Lw,new A.a6P(a),A.akn(e,e,e,e,e,e,e,e,e,B.k,e,e,e,e,e,e,e,e,e))],d),B.J,B.hj,B.K),B.p,B.l,e,e,e,e,e,e,e,e,e),!0),e,e,0,0,e,e)
 o=new A.bt(a.J(t.w).f.a.a,100)
 return A.cJ(e,A.bv(new A.p5(1/0,1/0,A.c1(B.G,A.a([q,p,A.cr(A.a([A.hm(e,e,B.p,e,e,new A.eC(B.l,e,e,new A.cq(B.P,B.P,o,o),B.BL,e,B.bd),e,100,e,e,e,e,e)],d),B.J,B.O,B.K)],d),B.L),e),e,e),new A.BP(new A.D5(new A.a16(!0,!0,!0,c,b),B.aY,B.bc,!1,e,e,r,!1,e,s,B.aX,B.G0,e,B.au,e),e))}}
 A.a6J.prototype={
@@ -35313,7 +35313,7 @@ A.bf(!0,new A.a6C(s),this.b,t.N)},
 $S:0}
 A.a6C.prototype={
 $1(a){var s=A.cU("Your score is "+this.a.r,null)
-return A.bd(A.a([A.b9(B.r,new A.a6a(a),null)],t.p),s,B.LC)},
+return A.bd(A.a([A.b9(B.r,new A.a6a(a),null)],t.p),s,B.LJ)},
 $S:5}
 A.a6a.prototype={
 $0(){A.K(this.a,!1).au()},
@@ -35693,7 +35693,7 @@ if(s!=null)s.a0D()},
 $S:0}
 A.a6O.prototype={
 $1(a){var s=null
-return A.b9(B.LB,new A.a6c(a),A.akn(s,s,s,s,s,s,s,s,s,B.k,s,s,s,s,s,s,s,s,s))},
+return A.b9(B.Lz,new A.a6c(a),A.akn(s,s,s,s,s,s,s,s,s,B.k,s,s,s,s,s,s,s,s,s))},
 $S:171}
 A.a6c.prototype={
 $0(){A.oT(this.a).HY()},
@@ -37747,7 +37747,7 @@ f=A.W(b,b,B.ae,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b)
 if(c.d===19){q=c.r
 q===$&&A.b()
 q=q===0}else q=!1
-f=A.N(120,A.U(B.Lt,q?new A.ac1(c,a0):b,f),b,b,80,b,b,b)
+f=A.N(120,A.U(B.Ls,q?new A.ac1(c,a0):b,f),b,b,80,b,b,b)
 e=A.W(b,b,B.ae,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b)
 q=c.w
 q===$&&A.b()
@@ -38477,7 +38477,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.ad9.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.ad4(this.a,a),null)],t.p),B.LJ,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.ad4(this.a,a),null)],t.p),B.LB,B.T)},
 $S:5}
 A.ad4.prototype={
 $0(){var s=this.a.a.c
@@ -38509,7 +38509,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.ad6.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.ad2(this.a,a),null)],t.p),B.Ll,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.ad2(this.a,a),null)],t.p),B.Ld,B.T)},
 $S:5}
 A.ad2.prototype={
 $0(){var s=this.a.a.c
@@ -38581,7 +38581,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.adn.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.adi(this.a,a),null)],t.p),B.LM,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.adi(this.a,a),null)],t.p),B.LE,B.T)},
 $S:5}
 A.adi.prototype={
 $0(){var s=this.a.a.c
@@ -38613,7 +38613,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.adk.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.adg(this.a,a),null)],t.p),B.Lo,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.adg(this.a,a),null)],t.p),B.Lg,B.T)},
 $S:5}
 A.adg.prototype={
 $0(){var s=this.a.a.c
@@ -38789,7 +38789,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.adP.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.adK(this.a,a),null)],t.p),B.LN,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.adK(this.a,a),null)],t.p),B.LF,B.T)},
 $S:5}
 A.adK.prototype={
 $0(){var s=this.a.a.c
@@ -38821,7 +38821,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.adM.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.adI(this.a,a),null)],t.p),B.Lp,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.adI(this.a,a),null)],t.p),B.Lh,B.T)},
 $S:5}
 A.adI.prototype={
 $0(){var s=this.a.a.c
@@ -38893,7 +38893,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.ae2.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.adY(this.a,a),null)],t.p),B.LI,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.adY(this.a,a),null)],t.p),B.LA,B.T)},
 $S:5}
 A.adY.prototype={
 $0(){var s=this.a.a.c
@@ -38925,7 +38925,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.ae_.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.adW(this.a,a),null)],t.p),B.Lk,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.adW(this.a,a),null)],t.p),B.Lc,B.T)},
 $S:5}
 A.adW.prototype={
 $0(){var s=this.a.a.c
@@ -38997,7 +38997,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.aeu.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.aep(this.a,a),null)],t.p),B.LK,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.aep(this.a,a),null)],t.p),B.LC,B.T)},
 $S:5}
 A.aep.prototype={
 $0(){var s=this.a.a.c
@@ -39029,7 +39029,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.aer.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.aen(this.a,a),null)],t.p),B.Lm,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.aen(this.a,a),null)],t.p),B.Le,B.T)},
 $S:5}
 A.aen.prototype={
 $0(){var s=this.a.a.c
@@ -39101,7 +39101,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.aeI.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.aeD(this.a,a),null)],t.p),B.LL,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.aeD(this.a,a),null)],t.p),B.LD,B.T)},
 $S:5}
 A.aeD.prototype={
 $0(){var s=this.a.a.c
@@ -39133,7 +39133,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.aeF.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.aeB(this.a,a),null)],t.p),B.Ln,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.aeB(this.a,a),null)],t.p),B.Lf,B.T)},
 $S:5}
 A.aeB.prototype={
 $0(){var s=this.a.a.c
@@ -39205,7 +39205,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.aeW.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.aeR(this.a,a),null)],t.p),B.LQ,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.aeR(this.a,a),null)],t.p),B.LI,B.T)},
 $S:5}
 A.aeR.prototype={
 $0(){var s=this.a.a.c
@@ -39237,7 +39237,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.aeT.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.aeP(this.a,a),null)],t.p),B.Lc,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.aeP(this.a,a),null)],t.p),B.Lk,B.T)},
 $S:5}
 A.aeP.prototype={
 $0(){var s=this.a.a.c
@@ -39309,7 +39309,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.af9.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.af4(this.a,a),null)],t.p),B.LO,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.af4(this.a,a),null)],t.p),B.LG,B.T)},
 $S:5}
 A.af4.prototype={
 $0(){var s=this.a.a.c
@@ -39341,7 +39341,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.af6.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.af2(this.a,a),null)],t.p),B.Lq,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.af2(this.a,a),null)],t.p),B.Li,B.T)},
 $S:5}
 A.af2.prototype={
 $0(){var s=this.a.a.c
@@ -39413,7 +39413,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.afn.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.afi(this.a,a),null)],t.p),B.LP,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.afi(this.a,a),null)],t.p),B.LH,B.T)},
 $S:5}
 A.afi.prototype={
 $0(){var s=this.a.a.c
@@ -39445,7 +39445,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.afk.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.afg(this.a,a),null)],t.p),B.Lr,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.afg(this.a,a),null)],t.p),B.Lj,B.T)},
 $S:5}
 A.afg.prototype={
 $0(){var s=this.a.a.c
@@ -39517,7 +39517,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.aeg.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.aeb(this.a,a),null)],t.p),B.Lv,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.aeb(this.a,a),null)],t.p),B.LN,B.T)},
 $S:5}
 A.aeb.prototype={
 $0(){var s=this.a.a.c
@@ -39549,7 +39549,7 @@ r===$&&A.b()
 s.d=r+1},
 $S:0}
 A.aed.prototype={
-$1(a){return A.bd(A.a([A.b9(B.r,new A.ae9(this.a,a),null)],t.p),B.Ld,B.T)},
+$1(a){return A.bd(A.a([A.b9(B.r,new A.ae9(this.a,a),null)],t.p),B.LL,B.T)},
 $S:5}
 A.ae9.prototype={
 $0(){var s=this.a.a.c
@@ -68214,10 +68214,10 @@ B.xz=new A.M0()
 B.xA=new A.MW()
 B.lT=new A.A1(0,"pixel")
 B.xB=new A.r4(null,null,null,null,null,null,null)
-B.Le=new A.af("Welcome To Phase 10",null,null,null,null,null)
-B.xC=new A.dQ(B.M,null,null,B.Le,null)
-B.Lg=new A.af("Question",null,null,null,null,null)
-B.aL=new A.dQ(B.M,null,null,B.Lg,null)
+B.Ll=new A.af("Welcome To Phase 10",null,null,null,null,null)
+B.xC=new A.dQ(B.M,null,null,B.Ll,null)
+B.Ln=new A.af("Question",null,null,null,null,null)
+B.aL=new A.dQ(B.M,null,null,B.Ln,null)
 B.L3=new A.af("Welcome To Phase 1",null,null,null,null,null)
 B.xM=new A.dQ(B.M,null,null,B.L3,null)
 B.L4=new A.af("Welcome To Phase 2",null,null,null,null,null)
@@ -68340,8 +68340,8 @@ B.A6=new A.aU(16,16,16,8)
 B.A2=new A.aU(0,0,0,8)
 B.fB=new A.aT(25e4)
 B.JJ=new A.q(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Lz=new A.af("Scores",null,B.JJ,null,0.5,null)
-B.Ai=new A.o_(B.Lz,null)
+B.Lx=new A.af("Scores",null,B.JJ,null,0.5,null)
+B.Ai=new A.o_(B.Lx,null)
 B.zQ=new A.BQ(null)
 B.zR=new A.nR(null,null,null,null,null,null,null,null)
 B.zS=new A.rE(null,null,null)
@@ -69685,8 +69685,8 @@ B.vq=new A.af("Press -Decide- button to decide your fate",null,null,null,null,nu
 B.FB=new A.hV(0,50,0,null,null,null,B.vq,null)
 B.Ah=new A.o_(B.vq,null)
 B.bn=new A.hV(0,50,0,null,null,null,B.Ah,null)
-B.Lw=new A.af("Welcome",null,null,null,4,null)
-B.Ag=new A.o_(B.Lw,null)
+B.Lu=new A.af("Welcome",null,null,null,4,null)
+B.Ag=new A.o_(B.Lu,null)
 B.FC=new A.hV(10,null,10,450,null,null,B.Ag,null)
 B.FD=new A.uu(null,null,null,null,null)
 B.FE=new A.Ew(!1)
@@ -69876,8 +69876,8 @@ B.Hd=new A.fY(3,"hide")
 B.Om=new A.fY(4,"remove")
 B.vc=new A.fY(5,"timeout")
 B.He=new A.p9(null,null,null,null,null,null,null,null,null,null)
-B.Lf=new A.af("Use only on screen buttons to go back.",null,null,null,null,null)
-B.xD=new A.dQ(B.M,null,null,B.Lf,null)
+B.Lm=new A.af("Use only on screen buttons to go back.",null,null,null,null,null)
+B.xD=new A.dQ(B.M,null,null,B.Lm,null)
 B.X=new A.mA(B.xD,null,null,null,null,null,null,null,null,null,null,B.dK,null,null,B.mc,B.au,null)
 B.vd=new A.vN(0,"permissive")
 B.On=new A.vN(1,"normal")
@@ -70145,58 +70145,58 @@ B.L1=new A.w7(1,"longestLine")
 B.b8=new A.af("Finish Phase",null,null,null,null,null)
 B.aS=new A.af("True",null,null,null,null,null)
 B.L2=new A.af("Phase 5",null,null,null,null,null)
-B.Lc=new A.af("Your answer is correct.\nYou got 10 points.",null,null,null,null,null)
-B.Ld=new A.af("Your answer is correct.\nYou got 100 point(s).",null,null,null,null,null)
-B.Lh=new A.af("The game has 10 different phases, each of them containing variety of points. By hitting -Start Game- button, you will be directed to one of these phases. The points you will see in these phases depend on a luck system. To engage this luck system press the button highlighted as -Decide- which takes place in every phase to see where your fate will take you. Thus you will be randomly routed to one of the greyed out buttons that containing a question and corresponding to a point which is again determined by the greyed out button. You need to answer this question right to gain the point that button equals. And that point will be decided by your fate as stated before. Every phase has different type of points. By completing one phase and passing over next one, the probability of a high point route chance will decrease at the same time. As you can understand, having knowledge is not enough to hit a high score without luck is being beside you. After completing a phase, use signifed buttons to go back to main page. In this page, you will see a score table statement bottom of the screen. Use this button to see your earned points in every phase and (after completing all phases) calculate your score. ",null,null,null,1.3,null)
+B.Lk=new A.af("Your answer is correct.\nYou got 10 points.",null,null,null,null,null)
+B.Lj=new A.af("Your answer is correct.\nYou got 20 points.",null,null,null,null,null)
+B.Li=new A.af("Your answer is correct.\nYou got 30 points.",null,null,null,null,null)
+B.Lh=new A.af("Your answer is correct.\nYou got 40 points.",null,null,null,null,null)
+B.Lg=new A.af("Your answer is correct.\nYou got 50 points.",null,null,null,null,null)
+B.Lf=new A.af("Your answer is correct.\nYou got 60 points.",null,null,null,null,null)
+B.Le=new A.af("Your answer is correct.\nYou got 70 points.",null,null,null,null,null)
+B.Ld=new A.af("Your answer is correct.\nYou got 80 points.",null,null,null,null,null)
+B.Lc=new A.af("Your answer is correct.\nYou got 90 points.",null,null,null,null,null)
+B.Lo=new A.af("The game has 10 different phases, each of them containing variety of points. By hitting -Start Game- button, you will be directed to one of these phases. The points you will see in these phases depend on a luck system. To engage this luck system press the button highlighted as -Decide- which takes place in every phase to see where your fate will take you. Thus you will be randomly routed to one of the greyed out buttons that containing a question and corresponding to a point which is again determined by the greyed out button. You need to answer this question right to gain the point that button equals. And that point will be decided by your fate as stated before. Every phase has different type of points. By completing one phase and passing over next one, the probability of a high point route chance will decrease at the same time. As you can understand, having knowledge is not enough to hit a high score without luck is being beside you. After completing a phase, use signifed buttons to go back to main page. In this page, you will see a score table statement bottom of the screen. Use this button to see your earned points in every phase and (after completing all phases) calculate your score. ",null,null,null,1.3,null)
 B.eI=new A.af("70 points",null,null,null,null,null)
-B.Li=new A.af("Phase 9",null,null,null,null,null)
+B.Lp=new A.af("Phase 9",null,null,null,null,null)
 B.b9=new A.af("Decide",null,null,null,null,null)
 B.aT=new A.af("False",null,null,null,null,null)
-B.Lj=new A.af("Phase 1",null,null,null,null,null)
+B.Lq=new A.af("Phase 1",null,null,null,null,null)
 B.kE=new A.af("80 points",null,null,null,null,null)
 B.ba=new A.af("10 points",null,null,null,null,null)
-B.Lr=new A.af("Your answer is correct.\nYou got 20 point(s).",null,null,null,null,null)
-B.Lq=new A.af("Your answer is correct.\nYou got 30 point(s).",null,null,null,null,null)
-B.Lp=new A.af("Your answer is correct.\nYou got 40 point(s).",null,null,null,null,null)
-B.Lo=new A.af("Your answer is correct.\nYou got 50 point(s).",null,null,null,null,null)
-B.Ln=new A.af("Your answer is correct.\nYou got 60 point(s).",null,null,null,null,null)
-B.Lm=new A.af("Your answer is correct.\nYou got 70 point(s).",null,null,null,null,null)
-B.Ll=new A.af("Your answer is correct.\nYou got 80 point(s).",null,null,null,null,null)
-B.Lk=new A.af("Your answer is correct.\nYou got 90 point(s).",null,null,null,null,null)
-B.Ls=new A.af("Instructions To Play",null,null,null,null,null)
+B.Lr=new A.af("Instructions To Play",null,null,null,null,null)
 B.bb=new A.af("5 points",null,null,null,null,null)
-B.Lt=new A.af("100 points",null,null,null,null,null)
-B.Lu=new A.af("Phase 7",null,null,null,null,null)
+B.Ls=new A.af("100 points",null,null,null,null,null)
+B.Lt=new A.af("Phase 7",null,null,null,null,null)
 B.dw=new A.af("60 points",null,null,null,null,null)
-B.Lv=new A.af("Your answer is correct.\nYou got 100 point(s)",null,null,null,null,null)
 B.vo=new A.af("Your answer is correct.\nYou got 5 points.",null,null,null,null,null)
-B.Lx=new A.af("Phase 10",null,null,null,null,null)
-B.Ly=new A.af("How To Play",null,null,null,null,null)
-B.LA=new A.af("Restart",null,null,null,null,null)
-B.LB=new A.af("Score Table",null,null,null,null,null)
+B.Lv=new A.af("Phase 10",null,null,null,null,null)
+B.Lw=new A.af("How To Play",null,null,null,null,null)
+B.Ly=new A.af("Restart",null,null,null,null,null)
+B.Lz=new A.af("Score Table",null,null,null,null,null)
 B.vp=new A.af("90 points",null,null,null,null,null)
+B.LI=new A.af("Your answer is correct.\nYou got 10 points",null,null,null,null,null)
+B.LH=new A.af("Your answer is correct.\nYou got 20 points",null,null,null,null,null)
+B.LG=new A.af("Your answer is correct.\nYou got 30 points",null,null,null,null,null)
+B.LF=new A.af("Your answer is correct.\nYou got 40 points",null,null,null,null,null)
+B.LE=new A.af("Your answer is correct.\nYou got 50 points",null,null,null,null,null)
+B.LD=new A.af("Your answer is correct.\nYou got 60 points",null,null,null,null,null)
+B.LC=new A.af("Your answer is correct.\nYou got 70 points",null,null,null,null,null)
+B.LB=new A.af("Your answer is correct.\nYou got 80 points",null,null,null,null,null)
+B.LA=new A.af("Your answer is correct.\nYou got 90 points",null,null,null,null,null)
 B.bE=new A.af("30 points",null,null,null,null,null)
 B.aU=new A.af("End Question",null,null,null,null,null)
-B.LC=new A.af("Score:",null,null,null,null,null)
+B.LJ=new A.af("Score:",null,null,null,null,null)
 B.r=new A.af("OK",null,null,null,null,null)
 B.ct=new A.af("50 points",null,null,null,null,null)
-B.LD=new A.af("Phase 3",null,null,null,null,null)
+B.LK=new A.af("Phase 3",null,null,null,null,null)
 B.a0=new A.af("Your answer is not correct.\nYou got 0 point",null,null,null,null,null)
+B.LL=new A.af("Your answer is correct.\nYou got 100 points.",null,null,null,null,null)
 B.c1=new A.af("40 points",null,null,null,null,null)
-B.LE=new A.af("Phase 6",null,null,null,null,null)
+B.LM=new A.af("Phase 6",null,null,null,null,null)
 B.kF=new A.af("Your answer is not correct.\nYou got 0 point.",null,null,null,null,null)
-B.LF=new A.af("Calculate Score",null,null,null,null,null)
-B.LG=new A.af("Phase 2",null,null,null,null,null)
-B.LH=new A.af("Phase 4",null,null,null,null,null)
-B.LQ=new A.af("Your answer is correct.\nYou got 10 point(s)",null,null,null,null,null)
-B.LP=new A.af("Your answer is correct.\nYou got 20 point(s)",null,null,null,null,null)
-B.LO=new A.af("Your answer is correct.\nYou got 30 point(s)",null,null,null,null,null)
-B.LN=new A.af("Your answer is correct.\nYou got 40 point(s)",null,null,null,null,null)
-B.LM=new A.af("Your answer is correct.\nYou got 50 point(s)",null,null,null,null,null)
-B.LL=new A.af("Your answer is correct.\nYou got 60 point(s)",null,null,null,null,null)
-B.LK=new A.af("Your answer is correct.\nYou got 70 point(s)",null,null,null,null,null)
-B.LJ=new A.af("Your answer is correct.\nYou got 80 point(s)",null,null,null,null,null)
-B.LI=new A.af("Your answer is correct.\nYou got 90 point(s)",null,null,null,null,null)
+B.LN=new A.af("Your answer is correct.\nYou got 100 points",null,null,null,null,null)
+B.LO=new A.af("Calculate Score",null,null,null,null,null)
+B.LP=new A.af("Phase 2",null,null,null,null,null)
+B.LQ=new A.af("Phase 4",null,null,null,null,null)
 B.LR=new A.af("Phase 8",null,null,null,null,null)
 B.S=new A.af("Sorry",null,null,null,null,null)
 B.T=new A.af("Congrats!!!",null,null,null,null,null)
